@@ -22,6 +22,9 @@ nav {
   background-color: #000000;
 }
 
+.arrow-left {
+  font-size: 0.625em;
+}
 /* ==================== List */
 
 .restaurant-list {
@@ -61,4 +64,5 @@ h3 {
   top: 50%;
   right: 20px;
   transform: translateY(-50%);
+  font-size: 0.625em;
 }
